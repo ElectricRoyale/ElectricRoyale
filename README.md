@@ -69,13 +69,21 @@
 >
 > ![Flutter](https://img.shields.io/badge/Flutter-0d1b2a?style=flat-rounded&logo=flutter&logoColor=54c5f8) ![Kotlin](https://img.shields.io/badge/Kotlin-0d1b2a?style=flat-rounded&logo=kotlin&logoColor=b44dff) ![Mobile](https://img.shields.io/badge/Mobile-0d1b2a?style=flat-rounded&logo=android&logoColor=3ddc84) ![Backend](https://img.shields.io/badge/Backend-0d1b2a?style=flat-rounded&logo=spring&logoColor=6db33f)
 
+> #### 🎓 Graduation Ball Ticket Management
+>
+> Ticket management system for my graduation ball. Students reserved tickets via Google Forms, and a Python script wrote the data into a Firebase database. After a student had paid, I sent the ticket as a PDF with a QR code from my Flutter frontend. A second app scanned and validated the tickets at the entrance.
+>
+> *Personal project.*
+>
+> ![Flutter](https://img.shields.io/badge/Flutter-0d1b2a?style=flat-square&logo=flutter&logoColor=54c5f8) ![Firebase](https://img.shields.io/badge/Firebase-0d1b2a?style=flat-square&logo=firebase&logoColor=ffca28) ![Google Forms](https://img.shields.io/badge/Google_Forms-0d1b2a?style=flat-square&logo=googleforms&logoColor=a07be0) ![Python](https://img.shields.io/badge/Python-0d1b2a?style=flat-square&logo=python&logoColor=ffd43b)
+
 > #### 🏠 Custom Home Assistant Dashboard
 >
 > A custom-built Home Assistant dashboard that uses the HA RESTful API to fetch data and control smart-home devices.
 >
 > *Personal project.*
 >
-> ![Home Assistant](https://img.shields.io/badge/Home_Assistant-0d1b2a?style=flat-rounded&logo=homeassistant&logoColor=18bcf2) ![JavaScript](https://img.shields.io/badge/Flutter-0d1b2a?style=flat-rounded&logo=flutter&logoColor=54c5f8) ![API](https://img.shields.io/badge/API-0d1b2a?style=flat-rounded&logo=swagger&logoColor=85ea2d) ![Smart Home](https://img.shields.io/badge/Smart_Home-0d1b2a?style=rounded)
+> ![Home Assistant](https://img.shields.io/badge/Home_Assistant-0d1b2a?style=flat-rounded&logo=homeassistant&logoColor=18bcf2) ![Flutter](https://img.shields.io/badge/Flutter-0d1b2a?style=flat-rounded&logo=flutter&logoColor=54c5f8) ![API](https://img.shields.io/badge/API-0d1b2a?style=flat-rounded&logo=swagger&logoColor=85ea2d) ![Smart Home](https://img.shields.io/badge/Smart_Home-0d1b2a?style=rounded)
 
 
 
