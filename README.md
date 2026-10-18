@@ -67,7 +67,7 @@
 >
 > [🔗 Website](https://app.sv-hockenheim.de) · [▶ Demo](mailto:demo@sv-hockenheim.de)
 >
-> ![Flutter](https://img.shields.io/badge/Flutter-0d1b2a?style=flat-square&logo=flutter&logoColor=54c5f8) ![Kotlin](https://img.shields.io/badge/Kotlin-0d1b2a?style=flat-square&logo=kotlin&logoColor=b44dff) ![Mobile](https://img.shields.io/badge/Mobile-0d1b2a?style=flat-square&logo=android&logoColor=3ddc84) ![Backend](https://img.shields.io/badge/Backend-0d1b2a?style=flat-square&logo=spring&logoColor=6db33f)
+> ![Flutter](https://img.shields.io/badge/Flutter-0d1b2a?style=flat-rounded&logo=flutter&logoColor=54c5f8) ![Kotlin](https://img.shields.io/badge/Kotlin-0d1b2a?style=flat-rounded&logo=kotlin&logoColor=b44dff) ![Mobile](https://img.shields.io/badge/Mobile-0d1b2a?style=flat-rounded&logo=android&logoColor=3ddc84) ![Backend](https://img.shields.io/badge/Backend-0d1b2a?style=flat-square&logo=spring&logoColor=6db33f)
 
 > #### 🏠 Custom Home Assistant Dashboard
 >
@@ -75,7 +75,7 @@
 >
 > *Personal project.*
 >
-> ![Home Assistant](https://img.shields.io/badge/Home_Assistant-0d1b2a?style=flat-square&logo=homeassistant&logoColor=18bcf2) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1b2a?style=flat-rounded&logo=flutter&logoColor=f7df1e) ![API](https://img.shields.io/badge/API-0d1b2a?style=flat-square&logo=swagger&logoColor=85ea2d) ![Smart Home](https://img.shields.io/badge/Smart_Home-0d1b2a?style=flat-square)
+> ![Home Assistant](https://img.shields.io/badge/Home_Assistant-0d1b2a?style=flat-rounded&logo=homeassistant&logoColor=18bcf2) ![JavaScript](https://img.shields.io/badge/Flutter-0d1b2a?style=flat-rounded&logo=flutter&logoColor=f7df1e) ![API](https://img.shields.io/badge/API-0d1b2a?style=flat-square&logo=swagger&logoColor=85ea2d) ![Smart Home](https://img.shields.io/badge/Smart_Home-0d1b2a?style=rounded)
 
 
 
