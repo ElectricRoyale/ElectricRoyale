@@ -75,7 +75,7 @@
 >
 > *Personal project.*
 >
-> ![Home Assistant](https://img.shields.io/badge/Home_Assistant-0d1b2a?style=flat-square&logo=homeassistant&logoColor=18bcf2) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1b2a?style=flat-square&logo=javascript&logoColor=f7df1e) ![API](https://img.shields.io/badge/API-0d1b2a?style=flat-square&logo=swagger&logoColor=85ea2d) ![Smart Home](https://img.shields.io/badge/Smart_Home-0d1b2a?style=flat-square)
+> ![Home Assistant](https://img.shields.io/badge/Home_Assistant-0d1b2a?style=flat-square&logo=homeassistant&logoColor=18bcf2) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1b2a?style=flat-rounded&logo=flutter&logoColor=f7df1e) ![API](https://img.shields.io/badge/API-0d1b2a?style=flat-square&logo=swagger&logoColor=85ea2d) ![Smart Home](https://img.shields.io/badge/Smart_Home-0d1b2a?style=flat-square)
 
 
 
