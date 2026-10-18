@@ -8,7 +8,7 @@
   <tr>
     <td nowrap><b>💻 Languages</b></td>
     <td>
-      <img height="28" src="https://img.shields.io/badge/Flutter-0d1b2a?style=plastic&logo=flutter&logoColor=54c5f8" alt="Flutter" />
+      <img height="50" src="https://img.shields.io/badge/Flutter-0d1b2a?style=plastic&logo=flutter&logoColor=54c5f8" alt="Flutter" />
       <img src="https://img.shields.io/badge/Java-0d1b2a?style=plastic&logo=openjdk&logoColor=ff6b35" alt="Java" />
       <img src="https://img.shields.io/badge/Kotlin-0d1b2a?style=plastic&logo=kotlin&logoColor=b44dff" alt="Kotlin" />
       <img src="https://img.shields.io/badge/Python-0d1b2a?style=plastic&logo=python&logoColor=ffd43b" alt="Python" />
