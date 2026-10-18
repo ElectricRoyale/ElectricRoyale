@@ -9,52 +9,52 @@
     <td nowrap><b>💻 Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Flutter-0d1b2a?style=plastic&logo=flutter&logoColor=54c5f8" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Java-0d1b2a?style=flat&logo=openjdk&logoColor=ff6b35" alt="Java" />
-      <img src="https://img.shields.io/badge/Kotlin-0d1b2a?style=flat&logo=kotlin&logoColor=b44dff" alt="Kotlin" />
-      <img src="https://img.shields.io/badge/Python-0d1b2a?style=flat&logo=python&logoColor=ffd43b" alt="Python" />
-      <img src="https://img.shields.io/badge/HTML-0d1b2a?style=flat&logo=html5&logoColor=e34f26" alt="HTML" />
-      <img src="https://img.shields.io/badge/CSS-0d1b2a?style=flat&logo=css3&logoColor=2f9bff" alt="CSS" />
-      <img src="https://img.shields.io/badge/JavaScript-0d1b2a?style=flat&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Java-0d1b2a?style=plastic&logo=openjdk&logoColor=ff6b35" alt="Java" />
+      <img src="https://img.shields.io/badge/Kotlin-0d1b2a?style=plastic&logo=kotlin&logoColor=b44dff" alt="Kotlin" />
+      <img src="https://img.shields.io/badge/Python-0d1b2a?style=plastic&logo=python&logoColor=ffd43b" alt="Python" />
+      <img src="https://img.shields.io/badge/HTML-0d1b2a?style=plastic&logo=html5&logoColor=e34f26" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS-0d1b2a?style=plastic&logo=css3&logoColor=2f9bff" alt="CSS" />
+      <img src="https://img.shields.io/badge/JavaScript-0d1b2a?style=plastic&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
     </td>
   </tr>
   <tr>
     <td nowrap><b>⚙️ Tools</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-0d1b2a?style=flat&logo=git&logoColor=f05032" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-0d1b2a?style=flat&logo=github&logoColor=ffffff" alt="GitHub" />
-      <img src="https://img.shields.io/badge/IntelliJ-0d1b2a?style=flat&logo=intellijidea&logoColor=ff318c" alt="IntelliJ" />
-      <img src="https://img.shields.io/badge/VS_Code-0d1b2a?style=flat&logo=visualstudiocode&logoColor=2f9bff" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Docker-0d1b2a?style=flat&logo=docker&logoColor=2496ed" alt="Docker" />
+      <img src="https://img.shields.io/badge/Git-0d1b2a?style=plastic&logo=git&logoColor=f05032" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-0d1b2a?style=plastic&logo=github&logoColor=ffffff" alt="GitHub" />
+      <img src="https://img.shields.io/badge/IntelliJ-0d1b2a?style=plastic&logo=intellijidea&logoColor=ff318c" alt="IntelliJ" />
+      <img src="https://img.shields.io/badge/VS_Code-0d1b2a?style=plastic&logo=visualstudiocode&logoColor=2f9bff" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Docker-0d1b2a?style=plastic&logo=docker&logoColor=2496ed" alt="Docker" />
     </td>
   </tr>
   <tr>
     <td nowrap><b>☁️ Services</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Docker-0d1b2a?style=flat&logo=docker&logoColor=2496ed" alt="Docker" />
-      <img src="https://img.shields.io/badge/Kubernetes-0d1b2a?style=flat&logo=kubernetes&logoColor=326ce5" alt="Kubernetes" />
-      <img src="https://img.shields.io/badge/PostgreSQL-0d1b2a?style=flat&logo=postgresql&logoColor=4f8dd9" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MySQL-0d1b2a?style=flat&logo=mysql&logoColor=00e5ff" alt="MySQL" />
-      <img src="https://img.shields.io/badge/NGINX-0d1b2a?style=flat&logo=nginx&logoColor=00e676" alt="NGINX" />
-      <img src="https://img.shields.io/badge/Redis-0d1b2a?style=flat&logo=redis&logoColor=ff4438" alt="Redis" />
-      <img src="https://img.shields.io/badge/RESTful_API-0d1b2a?style=flat&logo=swagger&logoColor=85ea2d" alt="RESTful API" />
+      <img src="https://img.shields.io/badge/Docker-0d1b2a?style=plastic&logo=docker&logoColor=2496ed" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-0d1b2a?style=plastic&logo=kubernetes&logoColor=326ce5" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0d1b2a?style=plastic&logo=postgresql&logoColor=4f8dd9" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MySQL-0d1b2a?style=plastic&logo=mysql&logoColor=00e5ff" alt="MySQL" />
+      <img src="https://img.shields.io/badge/NGINX-0d1b2a?style=plastic&logo=nginx&logoColor=00e676" alt="NGINX" />
+      <img src="https://img.shields.io/badge/Redis-0d1b2a?style=plastic&logo=redis&logoColor=ff4438" alt="Redis" />
+      <img src="https://img.shields.io/badge/RESTful_API-0d1b2a?style=plastic&logo=swagger&logoColor=85ea2d" alt="RESTful API" />
     </td>
   </tr>
   <tr>
     <td nowrap><b>🛡️ Security</b></td>
     <td>
-      <img src="https://img.shields.io/badge/JWT-0d1b2a?style=flat&logo=jsonwebtokens&logoColor=ff4dd2" alt="JWT" />
-      <img src="https://img.shields.io/badge/Rate--Limiting-0d1b2a?style=flat&logo=cloudflare&logoColor=4f8dd9" alt="Rate-Limiting" />
-      <img src="https://img.shields.io/badge/Data_Encryption-0d1b2a?style=flat&logo=gnuprivacyguard&logoColor=ffffff" alt="Data Encryption" />
-      <img src="https://img.shields.io/badge/CSP--Header-0d1b2a?style=flat&logo=letsencrypt&logoColor=00e5ff" alt="CSP-Header" />
-      <img src="https://img.shields.io/badge/SQL--Injection-0d1b2a?style=flat&logo=owasp&logoColor=00e5ff" alt="SQL-Injection" />
-      <img src="https://img.shields.io/badge/XSS-0d1b2a?style=flat&logo=owasp&logoColor=b44dff" alt="XSS" />
-      <img src="https://img.shields.io/badge/Whitelisting_/_Blacklisting-0d1b2a?style=flat&logo=checkmarx&logoColor=ffffff" alt="Whitelisting / Blacklisting" />
+      <img src="https://img.shields.io/badge/JWT-0d1b2a?style=plastic&logo=jsonwebtokens&logoColor=ff4dd2" alt="JWT" />
+      <img src="https://img.shields.io/badge/Rate--Limiting-0d1b2a?style=plastic&logo=cloudflare&logoColor=4f8dd9" alt="Rate-Limiting" />
+      <img src="https://img.shields.io/badge/Data_Encryption-0d1b2a?style=plastic&logo=gnuprivacyguard&logoColor=ffffff" alt="Data Encryption" />
+      <img src="https://img.shields.io/badge/CSP--Header-0d1b2a?style=plastic&logo=letsencrypt&logoColor=00e5ff" alt="CSP-Header" />
+      <img src="https://img.shields.io/badge/SQL--Injection-0d1b2a?style=plastic&logo=owasp&logoColor=00e5ff" alt="SQL-Injection" />
+      <img src="https://img.shields.io/badge/XSS-0d1b2a?style=plastic&logo=owasp&logoColor=b44dff" alt="XSS" />
+      <img src="https://img.shields.io/badge/Whitelisting_/_Blacklisting-0d1b2a?style=plastic&logo=checkmarx&logoColor=ffffff" alt="Whitelisting / Blacklisting" />
     </td>
   </tr>
   <tr>
     <td nowrap><b>🌱 Currently Learning</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Securing_a_software_backend-0d1b2a?style=for-the-badge&logo=hackthebox&logoColor=9fef00" alt="Securing a software backend" />
+      <img src="https://img.shields.io/badge/Securing_a_software_backend-0d1b2a?style=plastic&logo=hackthebox&logoColor=9fef00" alt="Securing a software backend" />
     </td>
   </tr>
 </table>
