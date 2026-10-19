@@ -2,6 +2,19 @@
   <img src="assets/banner.png" alt="Electric Royale - Build apps, secure systems, explore ideas" width="100%" />
 </div>
 
+### 👨🏼‍💻 About me
+
+Hi, I'm a hobbyist developer who loves building things and seeing them work. I started programming on vacation, taught by a friend, and haven't stopped since. 😄
+
+I mainly build apps with **Flutter** and **Kotlin**, from a club management system used in production to smaller projects like a Home Assistant dashboard and a Unity game. Alongside development, I'm growing my security skills: I spend many evenings on [Hack The Box](https://app.hackthebox.com/profile/019f8520-9702-70ab-808f-449a64283f58), learning how systems fail and how to protect my own backends against it.
+
+- 🛠️ I code in my free time, mostly because I enjoy building things and seeing them work.
+- 🔐 I spend a lot of my evenings on [Hack The Box](https://app.hackthebox.com/profile/019f8520-9702-70ab-808f-449a64283f58), breaking into machines and learning how systems fail.
+- 🧩 Whether it's a bug, a CTF challenge or a messy workflow, I love solving problems with computers.
+- ⚡ Currently working on: [Swimming Club Management System](https://app.sv-hockenheim.de)
+- 🌱 Currently learning: securing a software backend and attacking machines on Hack the Box
+- ⭐ Fun fact: I started programming on vacation, taught by a friend 😄
+
 <h3>&lt;/&gt; Tech Stack</h3>
 <table width="100%">
   <tr>
@@ -56,19 +69,6 @@
     </td>
   </tr>
 </table>
-
-### 👨🏼‍💻 About me
-
-Hi, I'm a hobbyist developer who loves building things and seeing them work. I started programming on vacation, taught by a friend, and haven't stopped since. 😄
-
-I mainly build apps with **Flutter** and **Kotlin**, from a club management system used in production to smaller projects like a Home Assistant dashboard and a Unity game. Alongside development, I'm growing my security skills: I spend many evenings on [Hack The Box](https://app.hackthebox.com/profile/019f8520-9702-70ab-808f-449a64283f58), learning how systems fail and how to protect my own backends against it.
-
-- 🛠️ I code in my free time, mostly because I enjoy building things and seeing them work.
-- 🔐 I spend a lot of my evenings on [Hack The Box](https://app.hackthebox.com/profile/019f8520-9702-70ab-808f-449a64283f58), breaking into machines and learning how systems fail.
-- 🧩 Whether it's a bug, a CTF challenge or a messy workflow, I love solving problems with computers.
-- ⚡ Currently working on: [Swimming Club Management System](https://app.sv-hockenheim.de)
-- 🌱 Currently learning: securing a software backend and attacking machines on Hack the Box
-- ⭐ Fun fact: I started programming on vacation, taught by a friend 😄
 
 ### 📁 Featured Projects
 
