@@ -89,13 +89,13 @@
 >
 > ![Home Assistant](https://img.shields.io/badge/Home_Assistant-0d1b2a?style=flat&logo=homeassistant&logoColor=18bcf2) ![Flutter](https://img.shields.io/badge/Flutter-0d1b2a?style=flat&logo=flutter&logoColor=54c5f8) ![API](https://img.shields.io/badge/API-0d1b2a?style=flat&logo=swagger&logoColor=85ea2d) ![Smart Home](https://img.shields.io/badge/Smart_Home-0d1b2a?style=flat)
 
-#### 🐦 Flappy Bird – Unity 2D Game
-
-A Flappy Bird clone for desktop and Android, built with Unity and C#. Features a one-tap gameplay loop, procedurally spawned pipes, a persistent highscore, a pause function and sound effects.
-
-*Personal project.*
-
-![Unity](https://img.shields.io/badge/Unity-0d1b2a?style=flat&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-0d1b2a?style=flat&logo=csharp&logoColor=9b4f96) ![Android](https://img.shields.io/badge/Android-0d1b2a?style=flat&logo=android&logoColor=3ddc84) ![2D Game](https://img.shields.io/badge/2D_Game-0d1b2a?style=flat)
+> #### 🐦 Flappy Bird – Unity 2D Game
+>
+> A Flappy Bird clone for desktop and Android, built with Unity and C#. Features a one-tap gameplay loop, procedurally spawned pipes, a persistent highscore, a pause function and sound effects.
+>
+> *Personal project.*
+>
+> ![Unity](https://img.shields.io/badge/Unity-0d1b2a?style=flat&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-0d1b2a?style=flat&logo=csharp&logoColor=9b4f96) ![Android](https://img.shields.io/badge/Android-0d1b2a?style=flat&logo=android&logoColor=3ddc84) ![2D Game](https://img.shields.io/badge/2D_Game-0d1b2a?style=flat)
 
 ### 🎯 Goals
 
