@@ -59,9 +59,9 @@
 
 ### 👨🏼‍💻 About me
 
-- 🛠️ Hobbyist programmer who enjoys coding in my free time.
-- 🔐 Solving machines on [Hack The Box](https://profile.hackthebox.com/profile/019f8520-9702-70ab-808f-449a64283f58) to sharpen my security skills.
-- 💡 I love solving problems with computers.
+- 🛠️ I write code in my free time, mostly because I enjoy building things and seeing them work.
+- 🔐 I spend a lot of my evenings on [Hack The Box](https://app.hackthebox.com/profile/019f8520-9702-70ab-808f-449a64283f58), breaking into machines and learning how systems fail.
+- 🧩 Whether it's a bug, a CTF challenge or a messy workflow, I love solving problems with computers.
 
 ### 📁 Featured Projects
 
@@ -97,13 +97,17 @@ A Flappy Bird clone for desktop and Android, built with Unity and C#. Features a
 
 ![Unity](https://img.shields.io/badge/Unity-0d1b2a?style=flat&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-0d1b2a?style=flat&logo=csharp&logoColor=9b4f96) ![Android](https://img.shields.io/badge/Android-0d1b2a?style=flat&logo=android&logoColor=3ddc84) ![2D Game](https://img.shields.io/badge/2D_Game-0d1b2a?style=flat)
 
+### 🎯 Goals
+
+- Keep growing my offensive security skills
+- Build small tools that automate boring tasks
+
 
 
 <table width="100%">
   <tr>
     <td width="25%" valign="top" align="center">⚡<br /><b>Currently working on</b><br />Swimming Club Management System</td>
     <td width="25%" valign="top" align="center">🌱<br /><b>Currently learning</b><br />Securing a software backend and more…</td>
-    <td width="25%" valign="top" align="center">🎯<br /><b>Goal</b><br />Reaching new skills</td>
     <td width="25%" valign="top" align="center">⭐<br /><b>Fun fact</b><br />I started developing on vacation, taught by a friend 😄</td>
   </tr>
 </table>
