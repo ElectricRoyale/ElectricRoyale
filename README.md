@@ -58,6 +58,12 @@
   </tr>
 </table>
 
+### 👨🏼‍💻 About me
+
+- 🛠️ Hobbyist programmer who enjoys coding in my free time.
+- 🔐 Solving machines on [Hack The Box](https://profile.hackthebox.com/profile/019f8520-9702-70ab-808f-449a64283f58) to sharpen my security skills.
+- 💡 I love solving problems with computers.
+
 ### 📁 Featured Projects
 
 > #### 📱 Swimming Club Management System &nbsp; ![Private](https://img.shields.io/badge/%F0%9F%94%92_Private-002a93?style=flat-square)
@@ -103,19 +109,3 @@
 </p>
 
 <p align="center"><i>Thanks for visiting my profile! 👑</i><br /><sub>Better Apps. Safer Tomorrow.</sub></p>
-
-
-<!--
-**ElectricRoyale/ElectricRoyale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
