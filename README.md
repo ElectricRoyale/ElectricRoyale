@@ -65,7 +65,7 @@
 
 ### 📁 Featured Projects
 
-> #### 📱 Swimming Club Management System &nbsp; ![Private](https://img.shields.io/badge/%F0%9F%94%92_Private-002a93?style=flat-square)
+> #### 📱 Swimming Club Management System &nbsp; ![Private](https://img.shields.io/badge/%F0%9F%94%92_Private-002a93?style=flat)
 >
 > Application written in Flutter (frontend) and Kotlin (backend) to digitalize club management. Handles registration for club events and competitions, member management, training attendance and more.
 >
