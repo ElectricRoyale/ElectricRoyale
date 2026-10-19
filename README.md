@@ -76,7 +76,7 @@ I mainly build apps with **Flutter** and **Kotlin**, from a club management syst
 >
 > Application written in Flutter (frontend) and Kotlin (backend) to digitalize club management. Handles registration for club events and competitions, member management, training attendance and more.
 >
-> [🔗 Website](https://app.sv-hockenheim.de) · [▶ Demo](mailto:demo@sv-hockenheim.de)
+> [🔗 Website](https://app.sv-hockenheim.de)
 >
 > ![Flutter](https://img.shields.io/badge/Flutter-0d1b2a?style=flat&logo=flutter&logoColor=54c5f8) ![Kotlin](https://img.shields.io/badge/Kotlin-0d1b2a?style=flat&logo=kotlin&logoColor=b44dff) ![Mobile](https://img.shields.io/badge/Mobile-0d1b2a?style=flat&logo=android&logoColor=3ddc84) ![Backend](https://img.shields.io/badge/Backend-0d1b2a?style=flat&logo=spring&logoColor=6db33f)
 
