@@ -23,7 +23,6 @@
       <img src="https://img.shields.io/badge/GitHub-0d1b2a?style=plastic&logo=github&logoColor=ffffff" alt="GitHub" />
       <img src="https://img.shields.io/badge/IntelliJ-0d1b2a?style=plastic&logo=intellijidea&logoColor=ff318c" alt="IntelliJ" />
       <img src="https://img.shields.io/badge/VS_Code-0d1b2a?style=plastic&logo=visualstudiocode&logoColor=2f9bff" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Docker-0d1b2a?style=plastic&logo=docker&logoColor=2496ed" alt="Docker" />
     </td>
   </tr>
   <tr>
