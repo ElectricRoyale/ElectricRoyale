@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
   <img src="assets/banner.png" alt="Electric Royale - Build apps, secure systems, explore ideas" width="100%" />
 </div>
