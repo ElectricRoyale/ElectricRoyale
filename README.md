@@ -107,14 +107,6 @@
 
 
 
-<table width="100%">
-  <tr>
-    <td width="25%" valign="top" align="center">⚡<br /><b>Currently working on</b><br />Swimming Club Management System</td>
-    <td width="25%" valign="top" align="center">🌱<br /><b>Currently learning</b><br />Securing a software backend and more…</td>
-    <td width="25%" valign="top" align="center">⭐<br /><b>Fun fact</b><br />I started developing on vacation, taught by a friend 😄</td>
-  </tr>
-</table>
-
 <p align="center">
   <a href="https://github.com/ElectricRoyale"><img src="https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn" /></a>
