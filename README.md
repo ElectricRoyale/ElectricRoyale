@@ -4,16 +4,14 @@
 
 ### 👨🏼‍💻 About me
 
-Hi, I'm a hobbyist developer who loves building things and seeing them work. I started programming on vacation, taught by a friend, and haven't stopped since. 😄
+Cybersecurity student and hobbyist developer. I build apps with **Flutter** and **Kotlin**, from a club management system used in production to a Home Assistant dashboard and a Unity game. I look at security from both sides: securing my own backends and breaking machines on [Hack The Box](https://app.hackthebox.com/profile/019f8520-9702-70ab-808f-449a64283f58).
 
-I mainly build apps with **Flutter** and **Kotlin**, from a club management system used in production to smaller projects like a Home Assistant dashboard and a Unity game. Alongside development, I'm growing my security skills: I spend many evenings on [Hack The Box](https://app.hackthebox.com/profile/019f8520-9702-70ab-808f-449a64283f58), learning how systems fail and how to protect my own backends against it.
-
-- 🛠️ I code in my free time, mostly because I enjoy building things and seeing them work.
-- 🔐 I spend a lot of my evenings on [Hack The Box](https://app.hackthebox.com/profile/019f8520-9702-70ab-808f-449a64283f58), breaking into machines and learning how systems fail.
-- 🧩 Whether it's a bug, a CTF challenge or a messy workflow, I love solving problems with computers.
+- 🎓 B.Sc. Cybersecurity at TH Mannheim, focus on penetration testing and secure software development
+- 🧩 Whether it's a bug, a CTF challenge or a messy workflow, I love solving problems with computers
+- 🧃 OWASP Juice Shop: 40/186 challenges solved (SQLi, XSS, broken access control)
 - ⚡ Currently working on: [Swimming Club Management System](https://app.sv-hockenheim.de)
-- 🌱 Currently learning: securing a software backend and attacking machines on Hack the Box
-- ⭐ Fun fact: I started programming on vacation, taught by a friend 😄
+- 🌱 Currently learning: Kubernetes, HashiCorp Vault, attacking machines on Hack The Box
+- 🏊 Swim coach and youth board member at my local club
 
 <h3>&lt;/&gt; Tech Stack</h3>
 <table width="100%">
