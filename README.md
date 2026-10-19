@@ -107,13 +107,4 @@ Cybersecurity student and hobbyist developer. I build apps with **Flutter** and 
 - Keep growing my offensive security skills
 - Build small tools that automate boring tasks
 
-
-
-<p align="center">
-  <a href="https://github.com/ElectricRoyale"><img src="https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Mail-0d1b2a?style=for-the-badge&logo=gmail&logoColor=ff4438" alt="Mail" /></a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-0d1b2a?style=for-the-badge&logo=discord&logoColor=5865f2" alt="Discord" /></a>
-</p>
-
 <p align="center"><i>Thanks for visiting my profile! 👑</i><br /><sub>Better Apps. Safer Tomorrow.</sub></p>
